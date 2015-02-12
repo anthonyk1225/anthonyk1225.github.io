@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is big O notation!"
+title:  "What is big O notation?"
 date:   2015-02-11 23:34:00
 categories: jekyll update
 ---
