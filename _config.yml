@@ -2,8 +2,7 @@
 title: One does not simply, blog into github
 email: anthonyk1225@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hey, my name's Anthony! I'm 26, and currently living in New York. I enjoy crossfit,
-  coding, video games, good music, and good food. This blog will be dedicated to documenting
+  Hey, my name's Anthony. I'm 26, and currently living in New York. This blog will be dedicated to documenting
   my journey at Byte Academy for it's February '15' cohort.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
