@@ -4,10 +4,9 @@ email: anthonyk1225@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hey, my name's Anthony. I'm 27, and currently living in New York working as a Web Developer.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://development.webhop.me" # the base hostname & protocol for your site
+url: "http://keatinganthony.com" # the base hostname & protocol for your site
 twitter_username: anthonysays
 github_username:  anthonyk1225
-linkedin_username: keatinganthony
 
 # Build settings
 markdown: kramdown
