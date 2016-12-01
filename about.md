@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Here you can find all of my online projects, what I'm up to, or just get to know me a little better.
+Welcome to my blog. Make sure to check out my projects and social media links. If you have any quetions, please shoot me an e-mail. I look forward to hearing from you.
