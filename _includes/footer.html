@@ -44,18 +44,13 @@
           {% endif %}
 
           {% if site.linkedin_username %}
-          <li>
-            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
-              <span class="icon  icon--linkedin">
-                <svg viewBox="0 0 16 16">
-                  <path fill="#828282"/>
-                </svg>
-              </span>
-
-              <span class="username">{{ site.linkedin_url }}</span>
-            </a>
-          </li>
-          {% endif %}          
+            <li>
+              <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                <i class="fa fa-linkedin"></i> LinkedIn
+              </a>
+            </li>
+          {% endif %} 
+                 
         </ul>
       </div>
 
