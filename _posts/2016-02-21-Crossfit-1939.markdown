@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Crossfit1939"
+date:   2016-02-21 05:20:21
+categories: jekyll update
+permalink: /crossfit1939/
+---
+
+<b><a href='http://crossfit1939.com'>Crossfit1939</a></b> is a gym located in Brooklyn, NY. I was hired to design and 
+create their website.
+<br><br>
+<h4>The main page showing avenues to view the about me and workouts pages, respectively.</h4>
+<img src='/css/assets/images/crossfit1939/main_page.png/'/>
+<h4>Workout of the day page. Shows the 3 most recent workouts, starting with today's.</h4>
+<img src='/css/assets/images/crossfit1939/workouts.png/'/>
