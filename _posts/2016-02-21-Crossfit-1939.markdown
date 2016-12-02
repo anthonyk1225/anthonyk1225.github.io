@@ -10,6 +10,6 @@ permalink: /crossfit1939/
 create their website.
 <br><br>
 <h4>The main page showing avenues to view the about me and workouts pages, respectively.</h4>
-<img src='/css/assets/images/crossfit1939/main_page.png/'/>
+<img src='/css/assets/images/crossfit1939/main_page.png'/>
 <h4>Workout of the day page. Shows the 3 most recent workouts, starting with today's.</h4>
-<img src='/css/assets/images/crossfit1939/workouts.png/'/>
+<img src='/css/assets/images/crossfit1939/workouts.png'/>
