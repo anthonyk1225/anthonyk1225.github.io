@@ -2,7 +2,9 @@
 title: Anthony Keating
 email: anthonyk1225@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hey, my name's Anthony. I'm 27, and currently living in New York working as a Web Developer.
+  Hey, my name's Anthony. I'm 28, and currently living in New York working as a Web Developer.
+  If I'm not working on a problem or creating something, I'm usually snatching or
+  working on my Fran time.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://keatinganthony.com" # the base hostname & protocol for your site
 twitter_username: anthonysays
