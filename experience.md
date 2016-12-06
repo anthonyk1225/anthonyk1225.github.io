@@ -13,7 +13,7 @@ permalink: /experience/
 <br>
 •	<a href='/d3post/'>Generated graphs of site analytics using D3</a> and Django
 <br>
-•	Built an automated server side bank verification app with Go
+•	Built an automated server side bank verification app with <a href='/languages/'>Go</a>
 <br>
 •	Augmented features ranging from activity feed, notifications and exploration
 <br>
@@ -26,7 +26,7 @@ permalink: /experience/
 <br>
 <i>Teaching Assistant</i>
 <br>
-•	Taught HTML/CSS, JavaScript, SQL and Python to students
+•	Taught <a href='/languages/'>HTML/CSS, JavaScript, SQL and Python</a> to students
 <br>
 •	Helped analyze and debug student’s assessment exams
 <br>
