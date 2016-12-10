@@ -2,6 +2,12 @@ var width = 960,
     height = 500,
     radius = Math.min(width, height) / 2;
 
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) 
+  var svgClassName = 'language_graph_m';
+else
+  var svgClassName = 'language_graph_d';
+      
+
 var color = d3.scale.ordinal()
     .range(["#98abc5", "#ffffff", "#44B78B", "#00d8ff", "#e44b23", "#3572A5", '#f1e05a']);
 
@@ -14,9 +20,10 @@ var pie = d3.layout.pie()
     .value(function(d) { return d.population; });
 
 var svg = d3.select("body").append("svg")
+    .attr('class', svgClassName)
     .attr("width", width)
     .attr("height", height)
-  .append("g")
+    .append("g")
     .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 
 var tip = d3.tip()
