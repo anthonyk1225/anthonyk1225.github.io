@@ -4,29 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
-<h3>June 2016 - Present</h3>
-<b><a href='http://development.webhop.me'>Candid Digs</a></b>
+<h3>July 2015 - July 2015</h3>
+<b><a href='http://wordsearchgame.ddns.net'>Word Search</a></b>
 <br>
-This project was inspired from my own agonizing apartment search.
-For years, I was faced with having to pay a fee for a real estate
-agent. This is aimed to change renting an apartment easier for everyone.
+A simple word-search game written in Node js using Express, mongoDB and socket.io. User starts a game and sends the unique link generated for them, to their friends. Players can chat and guess words on the grid that are generated. Game supports up to 5 players and ends when all words are found. Game state and words are saved in db (MongoDB). All events are broadcasted on the page, or in the chat box for all players to see. Broadcasting and chat box made possible with sockets and rooms. Deployed using digital ocean and served using apache.
 
-I created the website autonomously. I use Django for the main framework, React for my
-views and Postgres for the database. Check out some of
-the website <a href='/candiddigs/'>here</a>.
-
+<h3>May 2015</h3>
+<b><a href='https://peaceful-spire-6882.herokuapp.com/'>Sentiment Tracker</a></b>
 <br>
+The culmination of 4 months. The idea behind it is to search for stocks, given a date range anywhere from 10 years ago to present day. It takes the prices of the given range and plots it on a graph using D3. You then would be able to query twitter and it would plot those specific tweets and show if there is any correlation between the two. 
 
-<h3>February 2015</h3>
-<b><a href='http://crossfit1939.com'>Crossfit1939</a></b>
-<br>
-I was approached by the owner of this gym, Jacinto. He had a wordpress website but
-was looking for something that looked less like facebook. I met with him and we discussed
-a good solution. 
-
-I created the design and the actual website. I used Django as the main framework as well
-as React for my views. Jacinto is able to add workouts everyday using the Django admin. 
-Workouts are saved to the database which happens to be Postgres. 
-
-Finally, I served the website using apache on a digital ocean droplet. Check out some of
-the website <a href='/crossfit1939/'>here</a>.
+We made use of twitter API, Quandl's database and Alchemy API, to get the sentiment rating of each tweet. We also populated a part of the page with recent news stories of the company that you searched for, which were also able to be evaluated using Alchemy's sentiment evaluator. We were able to make this into a single page application using Ajax and moustache templating.
