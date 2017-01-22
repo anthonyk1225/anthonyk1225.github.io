@@ -8,7 +8,7 @@ permalink: /experience/
 <h3>July 2016 - Present</h3>
 <b><a href='/candiddigs/'>Candid Digs</a></b>
 <br>
-<i>Contracted Web Developer</i>
+<i>Web Development Contract</i>
 <br>
 •	Introduce an all in one platform for landlords and potential tenants
 <br>
@@ -25,7 +25,7 @@ permalink: /experience/
 <h3>Jan 2016 - Feb 2016</h3>
 <b><a href='/crossfit1939/'>CrossFit 1939</a></b>
 <br>
-<i>Contracted Web Developer</i>
+<i>Web Development Contract</i>
 <br>
 •	Developed with sole purpose of driving more business to owner’s gym
 <br>
@@ -55,7 +55,7 @@ permalink: /experience/
 <h3>July 2015</h3>
 <b><a href='http://divprof.ddns.net'>Diversified Professional Risk Managers</a></b>
 <br>
-<i>Contracted Web Developer</i>
+<i>Web Development Contract</i>
 <br>
 •	Presented client facing form for download of PDFs
 <br>
