@@ -8,7 +8,7 @@ permalink: /experience/
 <h3>July 2016 - Present</h3>
 <b><a href='/candiddigs/'>Candid Digs</a></b>
 <br>
-<i>Web Developer</i>
+<i>Web Developer, Freelance</i>
 <br>
 •	Introduce an all in one platform for landlords and potential tenants
 <br>
@@ -25,7 +25,7 @@ permalink: /experience/
 <h3>Jan 2016 - Feb 2016</h3>
 <b><a href='/crossfit1939/'>CrossFit 1939</a></b>
 <br>
-<i>Web Development Consultant</i>
+<i>Web Developer, Freelance</i>
 <br>
 •	Developed with sole purpose of driving more business to owner’s gym
 <br>
@@ -36,9 +36,9 @@ permalink: /experience/
 •	Transferred information from old WordPress site for direction
 <br><br>
 <h3>August 2015 – July 2016</h3>
-<b>Art Revolution, New York, NY</b>
+<b><a href='https://artrevolution.com'>Art Revolution</a>, New York, NY</b>
 <br>
-<i>Web Developer</i>
+<i>Web Developer, Full-Time</i>
 <br>
 •	Integrated and shaped Braintree platform on server side and client side
 <br>
@@ -55,16 +55,16 @@ permalink: /experience/
 <h3>July 2015</h3>
 <b><a href='http://divprof.ddns.net'>Diversified Professional Risk Managers</a></b>
 <br>
-<i>Web Development Consultant</i>
+<i>Web Developer, Freelance</i>
 <br>
 •	Presented client facing form for download of PDFs
 <br>
 •	Static site created with <a href='/languages/'>Django</a> that displayed company’s purpose
 <br><br>
 <h3>June 2015 - August 2015</h3>
-<b>Byte Academy, New York, NY</b>
+<b><a href='http://byteacademy.co/courses/'>Byte Academy</a>, New York, NY</b>
 <br>
-<i>Teaching Assistant</i>
+<i>Teaching Assistant, Full-Time</i>
 <br>
 •	Taught <a href='/languages/'>HTML/CSS, JavaScript, SQL and Python</a> to students
 <br>
