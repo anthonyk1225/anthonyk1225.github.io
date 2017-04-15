@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello and thank you for visiting my page. My name is Anthony Keating and I'm a software engineer. After graduating from Queens College in May 2011, I was very eager to get myself out there and start building the foundation for a fulfilling career out of something that I enjoyed. 
+Hello and thank you for visiting my page. My name is Anthony Keating and I'm a software developer. After graduating from Queens College in May 2011, I was very eager to get myself out there and start building the foundation for a fulfilling career out of something that I enjoyed. 
 
 I spent three years working as a client manager at a reputable rental company before deciding to make a career change. I had always loved to code and was finally allowing that passion to take over.
 

@@ -5,22 +5,27 @@ permalink: /projects/
 ---
 
 
+<h3>February 2017 - Present</h3>
+<b>IBM, New York, NY</b>
+<br>
+<i>Software Developer</i>
+<br>
+•	React Native
+
 <h3>July 2016 - Present</h3>
 <b><a href='/candiddigs/'>Candid Digs</a>, New York, NY</b>
 <br>
 <i>Web Developer</i>
 <br>
-•	Create design, schema, front-end and back-end of website
-<br>
 •	Assimilate stripe, background-check, Google Maps and PayPal APIs
 <br>
 •	Compose dashboard for tenants to store on-demand information
 <br>
-•	Establish apartment listing creation and search with <a href='/languages/'>React and Django</a>
+•	Establish apartment listing creation and search
 <br>
 •	Communicate data and images on S3 storage
 <br>
-•	Construct listing photo and avatar upload process
+•	Construct listing and avatar photo upload process
 
 
 <h3>Jan 2016 - Feb 2016</h3>
@@ -28,13 +33,9 @@ permalink: /projects/
 <br>
 <i>Web Developer</i>
 <br>
-•	Developed with sole purpose of driving more business to owner’s gym
-<br>
-•	Custom form made for owner to add workouts, that get displayed live
+•	Custom form for owner to add workouts
 <br>
 •	Made responsive to resizing, mobile and tablet devices
-<br>
-•	Transferred information from old WordPress site for direction
 
 
 <h3>August 2015 – July 2016</h3>
@@ -50,28 +51,7 @@ permalink: /projects/
 <br>
 •	Augmented features ranging from activity feed, notifications and exploration
 <br>
-•	Refactored existing back-end for a dry code base
-<br>
-•	Responsibility for migrating database on production and development
+•	Refactored existing back-end for a DRY code base
 
-
-<h3>July 2015</h3>
-<b>Diversified Professional Risk Managers, New York, NY</b>
 <br>
-<i>Web Developer</i>
-<br>
-•	Presented client facing form for download of PDFs
-<br>
-•	Static site created with <a href='/languages/'>Django</a> that displayed company’s purpose
-
-
-<h3>June 2015 - August 2015</h3>
-<b><a href='http://byteacademy.co/courses/'>Byte Academy</a>, New York, NY</b>
-<br>
-<i>Teaching Assistant</i>
-<br>
-•	Taught <a href='/languages/'>HTML/CSS, JavaScript, SQL and Python</a> to students
-<br>
-•	Helped analyze and debug student’s assessment exams
-<br>
-•	Contributed to school curriculum via GitHub
+<p><i>*More projects available upon request.</i></p>

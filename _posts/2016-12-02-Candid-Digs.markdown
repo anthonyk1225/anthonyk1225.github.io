@@ -6,8 +6,7 @@ categories: jekyll update
 permalink: /candiddigs/
 ---
 
-<b>Candid Digs</a></b> is a contract that i've worked on
-and built. It's a platform for potential tenants and landlords. Candid digs makes it easier to find
+Candid Digs is a platform for potential tenants and landlords. It makes it easier to find
 and get an apartment.
 <br><br>
 <h4>Landing page</h4>
