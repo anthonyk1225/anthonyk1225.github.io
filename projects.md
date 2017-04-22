@@ -6,11 +6,11 @@ permalink: /projects/
 
 
 <h3>February 2017 - Present</h3>
-<b>IBM, New York, NY</b>
+<b>IBM/Live Nation, New York, NY</b>
 <br>
 <i>Software Developer</i>
 <br>
-•	React Native
+•	App development for new Live Nation platform using React Native
 
 <h3>July 2016 - Present</h3>
 <b><a href='/candiddigs/'>Candid Digs</a>, New York, NY</b>
