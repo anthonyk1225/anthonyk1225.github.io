@@ -4,5 +4,5 @@ title: Languages & Frameworks
 permalink: /languages/
 ---
 
-<h4>*For most up to date skill set, please contact me.</h4>
+<h4>*Most up to date skill set available, upon request.</h4>
 <script src="/js/draw.js"></script>
