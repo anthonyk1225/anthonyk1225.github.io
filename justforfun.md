@@ -5,7 +5,7 @@ permalink: /justforfun/
 ---
 
 <h3>July 2015 - July 2015</h3>
-<b>Word Search</b>
+<b><a href='http://wordsearch.servegame.com'>Word Search</a></b>
 <br>
 A simple word-search game created with Express, mongoDB and socket.io. Players can chat and guess words on the grid that is generated. Game supports up to 5 players and ends when all words are found. Game state and words are saved in db (MongoDB). All events are broadcasted on the page, or in the chat box for all players to see. Broadcasting and chat box made possible with sockets and rooms.
 

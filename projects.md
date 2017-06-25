@@ -6,36 +6,25 @@ permalink: /projects/
 
 
 <h3>February 2017 - Present</h3>
-<b>IBM/Live Nation, New York, NY</b>
+<b>IBM, New York, NY</b>
 <br>
 <i>Software Developer</i>
 <br>
-•	App development for new Live Nation platform using React Native
+•	Develop Live Nation, react native app for iOS and Android 
+<br>
+•	Architect routes for watson CMS content into Live Nation DB
+
 
 <h3>July 2016 - Present</h3>
 <b><a href='/candiddigs/'>Candid Digs</a>, New York, NY</b>
 <br>
-<i>Web Developer</i>
+<i>Software Developer</i>
 <br>
-•	Assimilate stripe, background-check, Google Maps and PayPal APIs
+•	Assimilate stripe, background-check, Google Maps and PayPal APIs into software
 <br>
-•	Compose dashboard for tenants to store on-demand information
+•	Compose dashboard for tenants to store background and credit information
 <br>
-•	Establish apartment listing creation and search
-<br>
-•	Communicate data and images on S3 storage
-<br>
-•	Construct listing and avatar photo upload process
-
-
-<h3>Jan 2016 - Feb 2016</h3>
-<b><a href='/crossfit1939/'>CrossFit 1939</a>, New York, NY</b>
-<br>
-<i>Web Developer</i>
-<br>
-•	Custom form for owner to add workouts
-<br>
-•	Made responsive to resizing, mobile and tablet devices
+•	Communicate data and images into S3 storage
 
 
 <h3>August 2015 – July 2016</h3>
@@ -43,15 +32,15 @@ permalink: /projects/
 <br>
 <i>Web Developer</i>
 <br>
-•	Integrated and shaped Braintree platform on server side and client side
+•	Integrated E-commerce on server and client
 <br>
-•	<a href='/d3post/'>Generated graphs of site analytics using D3</a> and <a href='/languages/'>Django</a>
+•	Generated graphs of site analytics using <a href='/d3post/'>D3</a>
 <br>
-•	Built an automated server side bank verification app with <a href='/languages/'>Go</a>
+•	Structured email and image processing on separate <a href='/languages/'>Go</a> server
 <br>
 •	Augmented features ranging from activity feed, notifications and exploration
 <br>
-•	Refactored existing back-end for a DRY code base
+•	Created CMS for internal social media and marketing employees
 
 <br>
-<p><i>*More projects available upon request.</i></p>
+<p><i>*More projects available upon request</i></p>
