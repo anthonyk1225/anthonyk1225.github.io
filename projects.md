@@ -5,42 +5,43 @@ permalink: /projects/
 ---
 
 
-<h3>February 2017 - Present</h3>
+<h3>February '17 - Present</h3>
 <b>IBM, New York, NY</b>
 <br>
-<i>Software Developer</i>
+<b><i>Software Developer</i></b>  - <i>React Native, Express, Node JS, PSQL</i>
 <br>
-•	Develop Live Nation, react native app for iOS and Android 
+•	Build proof of concept websites for Ralph Lauren, Pizza Hut and other potential clients
 <br>
-•	Architect routes for watson CMS content into Live Nation DB
+•	Developed Live Nation app for IOS and android
+<br>
+•	Created custom test suite for Live Nation back end using mocha
 
 
-<h3>July 2016 - Present</h3>
+
+<h3>July '16 - July '17</h3>
 <b><a href='/candiddigs/'>Candid Digs</a>, New York, NY</b>
 <br>
-<i>Software Developer</i>
+<b><i>Web Developer</i></b> - <i>Django, React, PSQL</i>
 <br>
-•	Assimilate stripe, background-check, Google Maps and PayPal APIs into software
+•	Designed entire architecture of website
 <br>
-•	Compose dashboard for tenants to store background and credit information
+•	Assimilated stripe, background-check, Google Maps and PayPal APIs
 <br>
-•	Communicate data and images into S3 storage
+•	Managed DevOps using digital ocean droplet and S3/EBS services form AWS
 
 
-<h3>August 2015 – July 2016</h3>
-<b><a href='https://artrevolution.com'>Art Revolution</a>, New York, NY</b>
+
+<h3>August '15 – July '16</h3>
+<b>Art Revolution, New York, NY</b>
 <br>
-<i>Web Developer</i>
+<b><i>Web Developer</i></b> - <i>Django, React, PSQL, Go</i>
 <br>
-•	Integrated E-commerce on server and client
+•	Integrated and shaped Braintree platform on server side and client side
 <br>
 •	Generated graphs of site analytics using <a href='/d3post/'>D3</a>
 <br>
-•	Structured email and image processing on separate <a href='/languages/'>Go</a> server
-<br>
 •	Augmented features ranging from activity feed, notifications and exploration
-<br>
-•	Created CMS for internal social media and marketing employees
+
 
 <br>
 <p><i>*More projects available upon request</i></p>
