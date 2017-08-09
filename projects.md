@@ -10,12 +10,13 @@ permalink: /projects/
 <br>
 <b><i>Software Developer</i></b>  - <i>React Native, Express, Node JS, PSQL</i>
 <br>
-•	Build proof of concept websites for Ralph Lauren, Pizza Hut and other potential clients
-<br>
 •	Developed Live Nation app for IOS and android
 <br>
 •	Created custom test suite for Live Nation back end using mocha
-
+<br>
+•	Built application to collect Live Nation data from curated IBM Watson API
+<br>
+•	Build proof of concept websites for Ralph Lauren, Pizza Hut and other potential clients
 
 
 <h3>July '16 - July '17</h3>
@@ -23,7 +24,7 @@ permalink: /projects/
 <br>
 <b><i>Web Developer</i></b> - <i>Django, React, PSQL</i>
 <br>
-•	Designed entire architecture of website
+•	Designed website architecture
 <br>
 •	Assimilated stripe, background-check, Google Maps and PayPal APIs
 <br>
