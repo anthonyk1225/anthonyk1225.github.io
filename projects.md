@@ -16,7 +16,7 @@ permalink: /projects/
 <br>
 •	Built application to collect Live Nation data from curated IBM Watson API
 <br>
-•	Build proof of concept websites for Ralph Lauren, Pizza Hut and other potential clients
+•	Build proof of concept websites for Ralph Lauren, Pizza Hut and other clients
 
 
 <h3>July '16 - July '17</h3>
