@@ -1,8 +1,8 @@
 age,population,time
-GO, 0.3, 3
-Express, 1, 1
-Django, 1.8, 2 1/4
-React, 1.5, 2
-HTML/CSS, 2, 2 1/2
-Python, 2, 2 1/2
-Javascript, 2, 2 1/2
+Node, 1, 1
+Django, 1.5, 1.5
+React, 2.5, 2.5
+HTML/CSS, 3, 3
+Python, 1.5, 1.5
+Javascript, 3, 3
+SQL, 2, 2

@@ -6,10 +6,17 @@ if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(naviga
   var svgClassName = 'language_graph_m';
 else
   var svgClassName = 'language_graph_d';
-      
+
+const python = "#98abc5";
+const sql = "#ddd";
+const django = "#44B78B";
+const react = "#00d8ff";
+const HTML = "#e44b23";
+const javascript = '#f1e05a';
+const node = "#43853d";
 
 var color = d3.scale.ordinal()
-    .range(["#98abc5", "#ffffff", "#44B78B", "#00d8ff", "#e44b23", "#3572A5", '#f1e05a']);
+    .range([node, django, react, HTML, python, javascript, sql]);
 
 var arc = d3.svg.arc()
     .outerRadius(radius - 10)

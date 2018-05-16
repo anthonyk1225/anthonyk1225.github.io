@@ -6,7 +6,7 @@ categories: jekyll update
 permalink: /candiddigs/
 ---
 
-Candid Digs is a platform for potential tenants and landlords. It makes it easier to find
+<a href="https://candiddigs.com">Candid Digs</a> is a platform for potential tenants and landlords. It makes it easier to find
 and get an apartment.
 <br><br>
 <h4>Landing page</h4>
