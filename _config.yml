@@ -4,7 +4,7 @@ email: keatinganthony@icloud.com
 description: > # this means to ignore newlines until "baseurl:"
   Hey, my name's Anthony. Senior Front-End Developer working out of New York.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://keatinganthony.com" # the base hostname & protocol for your site
+url: "https://keatinganthony.com" # the base hostname & protocol for your site
 twitter_username: anthonysays
 github_username:  anthonyk1225
 linkedin_username: keatinganthony
