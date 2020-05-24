@@ -6,14 +6,18 @@ categories: jekyll update
 permalink: /candiddigs/
 ---
 
-<a href="https://candiddigs.com">Candid Digs</a> is a platform for potential tenants and landlords. It makes it easier to find
-and get an apartment.
-<br><br>
+<p>
+  <a href="https://candiddigs.ddns.net/">
+    Candid Digs
+  </a>
+  is a platform for potential tenants and landlords. We utilize online background checks and a scheduling system to cut out the middleman when renting out an apartment.
+</p>
+<br />
 <h4>Landing page</h4>
-<img src='/css/assets/images/candiddigs/landing_page.png'/>
-<br><br>
+<img src='/css/assets/images/candiddigs/landing_page.png' />
+<br /><br />
 <h4>Apartment search page</h4>
-<img src='/css/assets/images/candiddigs/listing_search.png'/>
-<br><br>
+<img src='/css/assets/images/candiddigs/listing_search.png' />
+<br /><br />
 <h4>Detailed listing page</h4>
-<img src='/css/assets/images/candiddigs/listing_page.png'/>
+<img src='/css/assets/images/candiddigs/listing_page.png' />

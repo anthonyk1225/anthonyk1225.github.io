@@ -6,9 +6,8 @@ categories: jekyll update
 permalink: /crossfit1939/
 ---
 
-<a href='https://crossfit1939.com'>Crossfit1939</a> is a gym located in Brooklyn, NY.
-<br><br>
-<h4>The main page showing avenues to view the about me and workout pages, respectively.</h4>
-<img src='/css/assets/images/crossfit1939/main_page.png'/>
-<h4>Workout of the day page. Shows the 3 most recent workouts, starting with today's.</h4>
-<img src='/css/assets/images/crossfit1939/workouts.png'/>
+<p>Crossfit1939 was a gym located in Brooklyn, NY.</p>
+<p>The main page showing buttons to view the about me and workout pages.</p>
+<img src='/css/assets/images/crossfit1939/main_page.png' />
+<p>Workout of the day page. Shows the 3 most recent workouts.</p>
+<img src='/css/assets/images/crossfit1939/workouts.png' />
