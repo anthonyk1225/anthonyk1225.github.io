@@ -160,7 +160,7 @@ permalink: /recursion/
   </p>
 
   <p>
-    If you compared the snippet to the output, you can see that anytime you want to swtich the way the inputs are stacked, you wrap it in a fresh array. Everytime you do this it switches the direction from <code>row</code> to <code>column</code>.
+    If you compared the snippet to the output, you can see that anytime you want to swtich the way the inputs are stacked, you wrap it in a fresh array. Everytime you do this it switches the direction from <code>row</code> to <code>column</code> and vice versa.
   </p>
 
   <h2>The Code</h2>
@@ -215,6 +215,6 @@ permalink: /recursion/
   }</pre>
 
   <p>
-    We are checking to see if the current index within data is <code>undefined</code>.
+    This case is checking to see if the current index within data is <code>undefined</code>. If it is, we do 1 of 2 things. We either return the <code>jsx</code> array or the <code>tmp</code> array. When <code>depth</code> is at the root level (typically 0), we know we are done looking at every item in the array and can finally return <code>jsx</code>. Every other situation, we return <code>tmp</code> so that we can continue to build the form.
   </p>
 </div>
